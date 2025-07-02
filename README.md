@@ -33,7 +33,6 @@ More fun and creative apps coming soon!
 📫 Reach out to me on LinkedIn:  
 [LinkedIn](https://www.linkedin.com/in/sakshi-bajpai-4b5736230)
 
-
 📷 [GitHub Portfolio](https://github.com/SakshiB2003)
 
 ---
