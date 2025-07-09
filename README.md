@@ -33,7 +33,7 @@ A visually-rich statistical project built in R, using the Palmer Penguins datase
 - 📂 Includes downloadable PowerPoint and PDF
 - 💾 Uses built-in datasets and palmerpenguins package
 - 🖥️ Built in RStudio
-🔗 [View Full Project](https://github.com/SakshiB2003/palmer-penguins-project)  
+- 🔗 [View Full Project](https://github.com/SakshiB2003/palmer-penguins-project)  
 
 
 ## 💼 Other Projects
