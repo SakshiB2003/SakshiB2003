@@ -71,48 +71,6 @@ A fully responsive front-end clone of the Amazon homepage, built with **HTML** a
 
 ---
 
-# 🛒 Amazon Homepage Clone
-
-A fully responsive front-end clone of the Amazon homepage, built with **HTML** and **CSS**. This project mimics the structure and styling of Amazon's UI to demonstrate layout design, responsive styling, and component organization.
-
----
-
-## 🔗 Live Demo
-
-🌐 **Hosted on Vercel**:  
-👉 [https://amazon-clone-gold-zeta.vercel.app/](https://amazon-clone-gold-zeta.vercel.app/)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://amazon-clone-gold-zeta.vercel.app/)
-
----
-
-## 🖼️ Preview
-
-> Add your own screenshot below (e.g., homepage preview)
-
-![Screenshot](Images/screenshot.jpg)
-
----
-
-## 🚀 Features
-
-- Responsive navigation bar with search and language selector
-- Hero banner with call-to-action message
-- Category product panels with images and links
-- Styled hover effects for interactivity
-- Footer section replicating Amazon’s service links and layout
-
----
-
-## 🧑‍💻 Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **Font Awesome Icons**
-- **Vercel** (Deployment)
-
----
-
 ## 📁 Project Setup
 
 To run locally:
