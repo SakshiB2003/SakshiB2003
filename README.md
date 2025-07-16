@@ -21,7 +21,7 @@ A soothing and interactive task manager with animations, motivation, and a midni
 📂 [View Code](https://github.com/SakshiB2003/midnight-todo-list)
 
 ---
-###🐧 Palmer Penguins Data Analysis (R)
+###🐧 Palmer Penguins Data Analysis (R).
 A visually-rich statistical project built in R, using the Palmer Penguins dataset as a modern, engaging alternative to Iris.
 
 **Key Features:**
@@ -34,6 +34,51 @@ A visually-rich statistical project built in R, using the Palmer Penguins datase
 - 💾 Uses built-in datasets and palmerpenguins package
 - 🖥️ Built in RStudio
 - 🔗 [View Full Project](https://github.com/SakshiB2003/palmer-penguins-project)  
+
+
+---
+# 🛒 Amazon Homepage Clone
+
+A fully responsive front-end clone of the Amazon homepage, built with **HTML** and **CSS**. This project mimics the structure and styling of Amazon's UI to demonstrate layout design, responsive styling, and component organization.
+
+---
+
+## 🔗 Live Demo
+
+🌐 **Hosted on Vercel**:  
+👉 [https://amazon-clone-gold-zeta.vercel.app/](https://amazon-clone-gold-zeta.vercel.app/)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://amazon-clone-gold-zeta.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- Responsive navigation bar with search and language selector
+- Hero banner with call-to-action message
+- Category product panels with images and links
+- Styled hover effects for interactivity
+- Footer section replicating Amazon’s service links and layout
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Font Awesome Icons**
+- **Vercel** (Deployment)
+
+---
+
+## 📁 Project Setup
+
+To run locally:
+
+```bash
+git clone https://github.com/SakshiB2003/amazon-clone.git
+cd amazon-clone
+
 
 
 ## 💼 Other Projects
