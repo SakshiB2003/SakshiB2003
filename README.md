@@ -21,7 +21,7 @@ A soothing and interactive task manager with animations, motivation, and a midni
 📂 [View Code](https://github.com/SakshiB2003/midnight-todo-list)
 
 ---
-##🐧 Palmer Penguins Data Analysis (R).
+## 🐧 Palmer Penguins Data Analysis (R).
 A visually-rich statistical project built in R, using the Palmer Penguins dataset as a modern, engaging alternative to Iris.
 
 **Key Features:**
