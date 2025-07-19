@@ -40,7 +40,7 @@ A visually-rich statistical project built in R, using the Palmer Penguins datase
 # 🛒 Amazon Homepage Clone
 
 A fully responsive front-end clone of the Amazon homepage, built with **HTML** and **CSS**. This project mimics the structure and styling of Amazon's UI to demonstrate layout design, responsive styling, and component organization.
-
+--
 ## 🔗 Live Demo
 
 🌐 **Hosted on Vercel**:  
