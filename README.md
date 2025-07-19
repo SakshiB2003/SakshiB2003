@@ -85,7 +85,7 @@ cd amazon-homepage-clone
 
 A dynamic and interactive web app to **flip, like, and organize BTS photocards**, allowing fans (ARMY!) to view, sort, filter by member, and like or dislike the card.
 
-🌐 **Live Demo**: [https://bts-photocard.vercel.app](https://bts-photocard.vercel.app/)
+🌐 **Live Demo**: [![Deploy with Vercel](https://vercel.com/button)](https://bts-photocard.vercel.app/)
 
 ---
 
