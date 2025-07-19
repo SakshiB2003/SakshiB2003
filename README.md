@@ -41,16 +41,12 @@ A visually-rich statistical project built in R, using the Palmer Penguins datase
 
 A fully responsive front-end clone of the Amazon homepage, built with **HTML** and **CSS**. This project mimics the structure and styling of Amazon's UI to demonstrate layout design, responsive styling, and component organization.
 
----
-
 ## 🔗 Live Demo
 
 🌐 **Hosted on Vercel**:  
 👉 [https://amazon-clone-gold-zeta.vercel.app/](https://amazon-clone-gold-zeta.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://amazon-clone-gold-zeta.vercel.app/)
-
----
 
 ## 🚀 Features
 
@@ -60,16 +56,12 @@ A fully responsive front-end clone of the Amazon homepage, built with **HTML** a
 - Styled hover effects for interactivity
 - Footer section replicating Amazon’s service links and layout
 
----
-
 ## 🧑‍💻 Tech Stack
 
 - **HTML5**
 - **CSS3**
 - **Font Awesome Icons**
 - **Vercel** (Deployment)
-
----
 
 ## 📁 Project Setup
 
@@ -89,28 +81,12 @@ A dynamic and interactive web app to **flip, like, and organize BTS photocards**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://bts-photocard.vercel.app/)
 
----
-
 ## 🚀 Features
 
 - 🔄 **Flip Cards** — Click to view front and back of each photocard.
 - 💖 **Like Buttons** — Heart your favorite photocards.
 - 🎚️ **Filter by Member** — Instantly show cards by specific members.
 - 🗂️ **Sort Options** — Sort by newest, oldest, or rarity.
-
----
-
-## 📸 BTS Members Included
-
-- RM
-- Jin
-- Suga
-- J-Hope
-- Jimin
-- V
-- Jungkook
-
----
 
 ## 🛠️ Built With
 
