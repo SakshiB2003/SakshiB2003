@@ -96,6 +96,22 @@ A dynamic and interactive web app to **flip, like, and organize BTS photocards**
 
 ---
 
+## 🎶 Jimin — MUSE (Fan Project)
+
+A fan-made tribute website inspired by BTS Jimin’s official album *MUSE* page from HYBE.  
+This static site blends design and interactivity to recreate the album showcase experience with concept images, carousels, and track highlights.
+
+### Key Features
+- 🖼️ Interactive image sliders (powered by Swiper.js)  
+- 🎵 Tape-style tracklist section  
+- 📱 Fully responsive, mobile-first design  
+- ✨ Styled to match the aesthetic of HYBE’s official discography pages  
+
+🌐 [![Deploy with Vercel](https://vercel.com/button)](https://bts-photocard.vercel.app/)
+📂 **View Code**: [GitHub Repo](https://github.com/SakshiB2003/Jimin-Muse)  
+
+---
+
 ## 💼 Other Projects
 
 More fun and creative apps coming soon!
