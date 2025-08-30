@@ -107,7 +107,9 @@ This static site blends design and interactivity to recreate the album showcase 
 - 📱 Fully responsive, mobile-first design  
 - ✨ Styled to match the aesthetic of HYBE’s official discography pages  
 
-🌐 [![Deploy with Vercel](https://vercel.com/button)](https://bts-photocard.vercel.app/)
+🌐 **Live Demo** :
+
+[![Deploy with Vercel](https://vercel.com/button)](https://jimin-muse.vercel.app/)
 📂 **View Code**: [GitHub Repo](https://github.com/SakshiB2003/Jimin-Muse)  
 
 ---
