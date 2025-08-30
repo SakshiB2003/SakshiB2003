@@ -110,6 +110,7 @@ This static site blends design and interactivity to recreate the album showcase 
 🌐 **Live Demo** :
 
 [![Deploy with Vercel](https://vercel.com/button)](https://jimin-muse.vercel.app/)
+
 📂 **View Code**: [GitHub Repo](https://github.com/SakshiB2003/Jimin-Muse)  
 
 ---
