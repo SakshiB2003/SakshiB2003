@@ -115,8 +115,9 @@ Analyze **Palmer Penguins dataset** using R with visualizations and summary stat
 ---
 
 ## ✉️ Let's Connect!
-- 📫 LinkedIn: [https://www.linkedin.com/in/sakshi-bajpai-4b5736230](https://www.linkedin.com/in/sakshi-bajpai-4b5736230)  
-- 📷 GitHub Portfolio: [https://github.com/SakshiB2003](https://github.com/SakshiB2003)  
+- 📫 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-bajpai-4b5736230)  
+- 📷 GitHub Portfolio: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003)
 
+ 
 > “It’s not just about building — it’s about creating things people love to use.”  
 > — Sakshi Bajpai
