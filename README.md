@@ -142,8 +142,8 @@ This project is perfect for beginners looking to understand server-side renderin
 
 🚀 **Live Demo** :
 
-🔗 Live Website: Add your Render link here
-🔗 GitHub Repository: Add your GitHub link here
+- 🔗 Live Website: [Live Demo](https://muse-journal.onrender.com/)
+- 🔗 GitHub Repository: [GitHub Repo](https://github.com/SakshiB2003/Muse-Journal)
 
 
 ---
