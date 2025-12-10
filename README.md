@@ -115,6 +115,39 @@ This static site blends design and interactivity to recreate the album showcase 
 
 ---
 
+## 📝 MUSE-Journal (Simple Blogging Web Application)
+
+This is a simple blogging web application built using Node.js, Express.js, and EJS.
+Users can create, view, and manage blog posts. The UI is styled with custom CSS and supports dynamic routing using Express.
+This project is perfect for beginners looking to understand server-side rendering and CRUD operations.
+
+### ⭐ Key Features
+
+- 📝 Create, View, Edit & Delete blog posts
+
+- ⚡ Express.js Dynamic Routing (/view/:id)
+
+- 🎨 Custom CSS for a minimal and responsive design
+
+- 🔄 EJS Templating with reusable components (header, footer)
+
+- 📦 In-memory Data Storage for posts
+
+- 📁 Simple folder structure following clean coding practices
+
+- 🧩 Body-parser integration for smooth form handling
+
+- 🚀 Suitable for learning backend basics & templating engines.
+
+
+🚀 **Live Demo** :
+
+🔗 Live Website: Add your Render link here
+🔗 GitHub Repository: Add your GitHub link here
+
+
+---
+
 ## 💼 Other Projects
 
 More fun and creative apps coming soon!
