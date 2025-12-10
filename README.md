@@ -144,7 +144,7 @@ This project is perfect for beginners looking to understand server-side renderin
 
 [![Live on Render](https://img.shields.io/badge/Live%20Demo-Render-blue?logo=render)](https://muse-journal.onrender.com/)
 
-##View Code : 
+## View Code : 
 🔗 GitHub Repository: [GitHub Repo](https://github.com/SakshiB2003/Muse-Journal)
 
 
