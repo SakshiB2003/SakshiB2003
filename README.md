@@ -39,7 +39,7 @@ Fully responsive **Amazon homepage clone** built with HTML & CSS. Demonstrates l
 
 **🔗 Links:**  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amazon-clone-gold-zeta.vercel.app/)  
-[![View Code](https://github.com/SakshiB2003/amazon-clone)](https://github.com/SakshiB2003/amazon-clone)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/amazon-clone)
 
 ---
 
@@ -76,8 +76,8 @@ Flip, like, and organize BTS photocards.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
 **🔗 Links:**  
-[![Live Demo](https://bts-photocard.vercel.app/)](https://bts-photocard.vercel.app/)  
-[![View Code](https://github.com/SakshiB2003/bts-photocard)](https://github.com/SakshiB2003/bts-photocard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bts-photocard.vercel.app/)  
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/bts-photocard)
 
 ---
 
@@ -93,12 +93,12 @@ Analyze **Palmer Penguins dataset** using R with visualizations and summary stat
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
 
 **🔗 Link:**  
-[![View Full Project](https://github.com/SakshiB2003/palmer-penguins-project)](https://github.com/SakshiB2003/palmer-penguins-project)
+[![View Full Project](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/palmer-penguins-project)
 
 ---
 
 ## 💼 Other Projects
-- **Jimin — MUSE Fan Page** – Interactive album showcase with sliders & track highlights [![Live Demo](https://jimin-muse.vercel.app/)](https://jimin-muse.vercel.app/)  
+- **Jimin — MUSE Fan Page** – Interactive album showcase with sliders & track highlights [![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jimin-muse.vercel.app/)  
 - **Drumkit, Pinterest Clone, Card Slider, etc.** – Small interactive JS & frontend demos  
 
 ---
